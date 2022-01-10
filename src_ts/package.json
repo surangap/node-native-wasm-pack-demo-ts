@@ -2,5 +2,8 @@
   "name": "demo-wasm-pack",
   "devDependencies": {
     "jest": "^27.4.5"
+  },
+  "scripts": {
+    "build": "tsc -w -p ."
   }
 }
